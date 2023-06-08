@@ -1,0 +1,52 @@
+
+INFO:root:Setting logging
+INFO:root:started Recorder.main()
+INFO:root:working file is C:\Users\Ori Akunis\PycharmProjects\Cyber_project
+INFO:root:Set clientlist
+INFO:root:Found word
+INFO:root:Set variables
+INFO:root:Set up date in Keyboard log
+INFO:root:Setting logging
+INFO:root:Set up multiprocess Process and manager
+INFO:root:Starting both processes
+INFO:root:Setting logging
+INFO:root:pressed: space
+INFO:root:pressed: i
+INFO:root:pressed: s
+INFO:root:pressed: space
+INFO:root:pressed: shift
+INFO:root:pressed: I
+INFO:root:pressed: c
+INFO:root:pressed: h
+INFO:root:pressed: o
+INFO:root:pressed: s
+INFO:root:pressed: shift
+INFO:root:pressed: P
+INFO:root:pressed: c
+INFO:root:pressed: i
+INFO:root:pressed: backspace
+INFO:root:pressed: backspace
+INFO:root:pressed: i
+INFO:root:pressed: c
+INFO:root:pressed: h
+INFO:root:pressed: s
+INFO:root:pressed: o
+INFO:root:pressed: backspace
+INFO:root:pressed: backspace
+INFO:root:pressed: o
+INFO:root:pressed: s
+INFO:root:pressed: backspace
+INFO:root:pressed: backspace
+INFO:root:pressed: backspace
+INFO:root:pressed: backspace
+INFO:root:pressed: backspace
+INFO:root:pressed: backspace
+INFO:root:pressed: backspace
+INFO:root:done recroding
+INFO:root:Directory "C:\Users\Ori Akunis\PycharmProjects\Cyber_project\Recordings" compressed and locked successfully as "C:\Users\Ori Akunis\PycharmProjects\Cyber_project\SendMe.zip"
+INFO:root:Created Zip and Removed files
+INFO:root:Connecting to server...
+INFO:root:Succesfully connected to server
+INFO:root:Sending email to: dan.ori.akunis@gmail.com...
+INFO:root:Email sent to: dan.ori.akunis@gmail.com
+INFO:root:deleted files
